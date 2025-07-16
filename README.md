@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-<!--
+<!--Hi 👋! My name is bhupendra and I'm a student, from india
+stats graph languages graph
+
+
+javascript logo  react logo  html5 logo  css3 logo  python logo  csharp logo  nodejs logo  mongodb logo
+youtube logo instagram logo twitch logo discord logo gmail logo 
 **Ashokstar451/Ashokstar451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
