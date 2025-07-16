@@ -1,4 +1,4 @@
-## Hi  👋 thise is me  means Ashok star
+## Hi  👋 thise is me,  means Ashok star
 
 <!--Hi 👋! My name is bhupendra and I'm a student, from india
 stats graph languages graph
